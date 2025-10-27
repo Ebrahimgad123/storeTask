@@ -53,7 +53,7 @@ A minimal **3-screen React Native app** built with **Expo** and **TypeScript**, 
 ## 🧠 App Configuration
 
 - **Chosen Category:** `smartphones`  
-- **Superadmin Username:** `admin`  
+- **Superadmin Username:** `emilys`  
 - **Auto-lock Timeout:** 10 seconds  
 
 ---
@@ -62,5 +62,5 @@ A minimal **3-screen React Native app** built with **Expo** and **TypeScript**, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/react-native-store-challenge.git
+git clone https://github.com/yourusername/react-native-store-challenge.git](https://github.com/Ebrahimgad123/storeTask.git)
 cd react-native-store-challenge
