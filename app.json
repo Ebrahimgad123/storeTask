@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "storeTask",
+    "name": "storerTask",
     "slug": "storeTask",
+    "scheme": "storetask",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -21,10 +22,16 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.ibrahimgad.storeTask"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "80261471-9347-4d8b-9b75-ad6d990fcc69"
+      }
     }
   }
 }
