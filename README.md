@@ -62,5 +62,7 @@ A minimal **3-screen React Native app** built with **Expo** and **TypeScript**, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/react-native-store-challenge.git](https://github.com/Ebrahimgad123/storeTask.git)
-cd react-native-store-challenge
+git clone https://github.com/Ebrahimgad123/storeTask.git
+cd storeTask
+npm install
+npx expo start
