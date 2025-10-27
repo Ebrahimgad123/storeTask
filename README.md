@@ -65,4 +65,6 @@ A minimal **3-screen React Native app** built with **Expo** and **TypeScript**, 
 git clone https://github.com/Ebrahimgad123/storeTask.git
 cd storeTask
 npm install
+npx expo prebuild --clean
+eas build --profile development --platform android
 npx expo start
